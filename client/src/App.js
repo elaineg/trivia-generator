@@ -24,7 +24,7 @@ function App() {
           <label>
             Give me a topic: <br/>
             <textarea name="input-box" rows="5" cols="100" value={prompt} onChange={handleChange}/>
-          </label>
+          </label>  
           <br/>
           <input type="submit" value="Submit" />
         </form>

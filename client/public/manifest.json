@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Trivia generator",
+  "name": "Trivia generator powered by Cohere",
   "icons": [
     {
       "src": "favicon.ico",
