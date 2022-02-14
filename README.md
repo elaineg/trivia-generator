@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,4 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Trivia Generator built with Cohere
+This is the code that comes in conjunction with a tutorial to build a React app using [Cohere's](https://cohere.ai) Generate endpoint.
+
+Try it [here](https://cohere-trivia-generator.herokuapp.com/)
+
+Get your API key from Cohere and build your own at [os.cohere.ai/register](https://os.cohere.ai/register).
